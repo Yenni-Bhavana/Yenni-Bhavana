@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Bhavana 👋
 
-<!--
-**Yenni-Bhavana/Yenni-Bhavana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Psychology Graduate
+📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Psychology graduate currently learning Data Analytics. I am passionate about working with data, discovering insights, and building meaningful data-driven solutions.
+
+I am developing my skills in data analysis, visualization, and data-driven decision making through hands-on projects and continuous learning.
+
+## Skills
+
+**Programming**
+
+* Python
+
+**Python Libraries**
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+
+**Data Analysis**
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+
+**Tools**
+
+* Excel
+* Power BI
+* Jupyter Notebook
+* VS Code
+
+**Databases**
+
+* MySQL
+
+**Version Control**
+
+* Git
+
+## Current Focus
+
+* Practicing real-world data analysis projects
+* Improving data visualization skills
+* Strengthening analytical thinking
+
+## How to Reach Me
+
+📧 yennibhavana268@gmail.com
+
+---
+
+⭐ Explore my repositories to see the projects I am currently working on.
+
