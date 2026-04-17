@@ -51,7 +51,8 @@ I am developing my skills in data analysis, visualization, and data-driven decis
 
 ## How to Reach Me
 
-📧 yennibhavana268@gmail.com
+* Email    -   yennibhavana268@gmail.com
+* LinkedIn -   www.linkedin.com/in/yenni-bhavana-50b64b249
 
 ---
 
