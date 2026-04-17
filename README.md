@@ -1,7 +1,7 @@
 # Hi, I'm Bhavana 👋
 
-#### Psychology Graduate
-#### Aspiring Data Analyst
+🎓 Psychology Graduate
+📊 Aspiring Data Analyst
 
 ## About Me
 
