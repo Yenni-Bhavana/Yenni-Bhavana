@@ -33,15 +33,10 @@ I am developing my skills in data analysis, visualization, and data-driven decis
 * Excel
 * Power BI
 * Jupyter Notebook
-* VS Code
 
 **Databases**
 
 * MySQL
-
-**Version Control**
-
-* Git
 
 ## Current Focus
 
